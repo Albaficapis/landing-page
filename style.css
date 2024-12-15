@@ -1,0 +1,36 @@
+*, ::before, ::after {
+margin:0;
+padding:0;
+box-sizing:border-box; 
+}
+
+:root {
+    --hero-footer-background : #1F2937;
+    --text-light:#F9FAF8;
+    --font-family: "Roboto", sans-serif;
+    --button-color : #3882F6;
+    --text-dark:#1F2937;
+    --quote-background-section: #E5E7EB;
+    --quote-text-color:#1F2937;
+}
+/* #######################################
+*############# COLORS &  FONTS ##########
+########################################*/
+/*.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-black {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.roboto-light-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+*/
